@@ -1,6 +1,6 @@
 cask "cpu-temp" do
   version "1.0.0"
-  sha256 "PASTE_THE_SHA256_HASH_HERE"
+  sha256 "0ffdae664620cee194c2a3f9a2a949c9b163d0780e77c1d1a5bff02f676a8482"
 
   url "https://github.com/jpferreria/mac-cpu-temp/releases/download/v#{version}/cpu-temp-v#{version}.zip"
   name "cpu-temp"
