@@ -8,7 +8,7 @@ cask "cpu-temp" do
   homepage "https://github.com/jpferreria/mac-cpu-temp"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "cpu-temp.app"
 
